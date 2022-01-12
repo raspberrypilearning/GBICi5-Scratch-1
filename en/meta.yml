@@ -1,18 +1,21 @@
+---
 title: GBICi5-Scratch-1
 hero_image: images/banner.png
 description: GBICi5-Scratch-1 description
 version: 4
 listed: false
 copyedit: false
-last_tested: "2019-08-07"
+last_tested: '2019-08-07'
 steps:
-  - title: Starter
-  - title: Rockband
-  - title: Lost in Space
-  - title: Ghostbusters
-  - title: Careers in Computing
-  - title: Chatbot
-  - title: Paint Box
-  - title: Boat race
-  - title: Paint Box
-  - title: Plenary
+- title: Starter
+  completion: engaged
+- title: Rockband
+- title: Lost in Space
+- title: Ghostbusters
+- title: Careers in Computing
+- title: Chatbot
+- title: Paint Box
+- title: Boat race
+- title: Paint Box
+  completion: internal
+- title: Plenary
